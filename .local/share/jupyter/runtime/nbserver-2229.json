@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/root",
+  "password": false,
+  "pid": 2229,
+  "port": 8090,
+  "secure": false,
+  "sock": "",
+  "token": "1ee87c0923e4178cfad6c28ac899a6c5b21bbb589b39d529",
+  "url": "http://localhost:8090/"
+}

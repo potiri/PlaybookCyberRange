@@ -1,0 +1,560 @@
+# Diese viminfo-Datei wurde von Vim 8.2 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Viminfo version
+|1,4
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~MSle0~/docker-listener
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+|2,0,1678654185,,"wq"
+:s
+|2,0,1678113225,,"s"
+:q
+|2,0,1677752722,,"q"
+:qw
+|2,0,1674072726,,"qw"
+:wq!
+|2,0,1673973705,,"wq!"
+:u
+|2,0,1673879253,,"u"
+:w
+|2,0,1673252260,,"w"
+:x
+|2,0,1671223232,,"x"
+:W
+|2,0,1671223154,,"W"
+
+# Suchausdruck Geschichte (neueste bis älteste):
+?/docker-listener
+|2,1,1673948803,47,"docker-listener"
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Debug-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"1	LINE	0
+	{
+|3,0,1,1,1,0,1674235397,"{"
+"2	LINE	0
+	}
+|3,0,2,1,1,0,1674235396,"}"
+"3	LINE	0
+		}
+|3,0,3,1,1,0,1674235396,"	}"
+"4	LINE	0
+			"tag": "docker/{{.Name}}"
+|3,0,4,1,1,0,1674235395,"		\"tag\": \"docker/{{.Name}}\""
+"5	LINE	0
+		"log-driver": "sddi:" {
+|3,0,5,1,1,0,1674235394,"	\"log-driver\": \"sddi:\" {"
+"6	LINE	0
+	
+|3,0,6,1,1,0,1674125183,""
+"7	LINE	0
+	  <localfile>
+|3,0,7,1,1,0,1674125182,"  <localfile>"
+"8	LINE	0
+	    <log_format>json</log_format>
+|3,0,8,1,1,0,1674125181,"    <log_format>json</log_format>"
+"9	LINE	0
+		    <location>/var/lib/docker/containers/944d6ddfe7aaf8fbd58ba38ccbda68a44be5eae0f3b171476b7325dffdbcb468/944d6ddfe7aaf8fbd58ba38ccbda68a44be5eae0f3b171476b7325dffdbcb468-json.log</location>
+|3,0,9,1,1,0,1674125180,"	    <location>/var/lib/docker/containers/944d6ddfe7aaf8fbd58ba38ccbda68a44be5eae0f3b171476b7325dffdbcb468/944d6ddfe7aaf8fbd58ba38ccbda68a44be5eae0f3b171476b7325dffdbcb468-json.log</location>"
+""-	CHAR	0
+	&
+|3,1,36,0,1,0,1678113200,"&"
+
+# Datei-Markierungen:
+'0  84  0  ~/attacker/password-list.txt
+|4,48,84,0,1678654185,"~/attacker/password-list.txt"
+'1  12  45  ~/docker-http/index.html
+|4,49,12,45,1678113235,"~/docker-http/index.html"
+'2  12  52  ~/docker-http/index.html
+|4,50,12,52,1678113210,"~/docker-http/index.html"
+'3  14  43  ~/docker-http/index.html
+|4,51,14,43,1678113179,"~/docker-http/index.html"
+'4  14  43  ~/docker-http/index.html
+|4,52,14,43,1678113179,"~/docker-http/index.html"
+'5  14  43  ~/docker-http/index.html
+|4,53,14,43,1678113179,"~/docker-http/index.html"
+'6  14  43  ~/docker-http/index.html
+|4,54,14,43,1678113179,"~/docker-http/index.html"
+'7  12  51  ~/docker-http/index.html
+|4,55,12,51,1678113133,"~/docker-http/index.html"
+'8  12  51  ~/docker-http/index.html
+|4,56,12,51,1678113133,"~/docker-http/index.html"
+'9  12  51  ~/docker-http/index.html
+|4,57,12,51,1678113133,"~/docker-http/index.html"
+
+# Jumplist (neueste zuerst):
+-'  84  0  ~/attacker/password-list.txt
+|4,39,84,0,1678654185,"~/attacker/password-list.txt"
+-'  1  0  ~/attacker/password-list.txt
+|4,39,1,0,1678654165,"~/attacker/password-list.txt"
+-'  12  45  ~/docker-http/index.html
+|4,39,12,45,1678113235,"~/docker-http/index.html"
+-'  12  45  ~/docker-http/index.html
+|4,39,12,45,1678113235,"~/docker-http/index.html"
+-'  12  52  ~/docker-http/index.html
+|4,39,12,52,1678113210,"~/docker-http/index.html"
+-'  12  52  ~/docker-http/index.html
+|4,39,12,52,1678113210,"~/docker-http/index.html"
+-'  14  43  ~/docker-http/index.html
+|4,39,14,43,1678113189,"~/docker-http/index.html"
+-'  14  43  ~/docker-http/index.html
+|4,39,14,43,1678113189,"~/docker-http/index.html"
+-'  14  43  ~/docker-http/index.html
+|4,39,14,43,1678113189,"~/docker-http/index.html"
+-'  14  43  ~/docker-http/index.html
+|4,39,14,43,1678113189,"~/docker-http/index.html"
+-'  14  43  ~/docker-http/index.html
+|4,39,14,43,1678113179,"~/docker-http/index.html"
+-'  14  43  ~/docker-http/index.html
+|4,39,14,43,1678113179,"~/docker-http/index.html"
+-'  12  51  ~/docker-http/index.html
+|4,39,12,51,1678113140,"~/docker-http/index.html"
+-'  12  51  ~/docker-http/index.html
+|4,39,12,51,1678113140,"~/docker-http/index.html"
+-'  12  51  ~/docker-http/index.html
+|4,39,12,51,1678113133,"~/docker-http/index.html"
+-'  12  51  ~/docker-http/index.html
+|4,39,12,51,1678113133,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113105,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113064,"~/docker-http/index.html"
+-'  35  103  ~/docker-http/index.html
+|4,39,35,103,1678113064,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  1  0  ~/docker-http/index.html
+|4,39,1,0,1678113009,"~/docker-http/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+-'  7  70  ~/docker_http_3/index.html
+|4,39,7,70,1677753780,"~/docker_http_3/index.html"
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/attacker/password-list.txt
+	*	1678654184	0
+	"	84	0
+
+> ~/docker-http/index.html
+	*	1678113234	0
+	"	12	45
+	^	12	46
+	.	12	45
+	+	35	104
+	+	36	0
+	+	12	51
+	+	13	55
+	+	12	45
+
+> ~/docker_http_3/index.html
+	*	1677753777	0
+	"	7	70
+	^	7	75
+	.	7	70
+	+	46	114
+	+	46	7
+	+	47	0
+	+	3	40
+	+	12	16
+	+	14	16
+	+	19	16
+	+	21	16
+	+	24	13
+	+	26	14
+	+	19	8
+	+	21	8
+	+	29	14
+	+	31	14
+	+	32	134
+	+	43	0
+	+	32	8
+	+	32	55
+	+	32	100
+	+	32	134
+	+	37	29
+	+	34	41
+	+	36	41
+	+	42	29
+	+	41	45
+	+	39	45
+	+	38	3
+	+	7	15
+	+	12	16
+	+	19	4
+	+	19	22
+	+	21	14
+	+	24	21
+	+	26	9
+	+	21	10
+	+	29	18
+	+	31	13
+	+	33	0
+	+	34	31
+	+	35	10
+	+	34	47
+	+	36	42
+	+	39	53
+	+	41	44
+	+	42	28
+	+	44	0
+	+	7	0
+	+	6	4
+	+	7	74
+	+	8	5
+	+	7	70
+
+> ~/docker_http_3/admin.html
+	*	1677751580	0
+	"	1	0
+
+> /etc/docker/daemon.json:
+	*	1677749222	0
+	"	3	0
+	^	3	1
+	.	2	27
+	+	3	0
+	+	2	27
+
+> /etc/docker/daemon.json
+	*	1677747983	0
+	"	2	22
+	^	2	23
+	.	2	23
+	+	1	2
+	+	2	0
+	+	1	1
+	+	2	0
+	+	1	0
+	+	1	24
+	+	1	1
+	+	2	23
+	+	2	27
+	+	3	0
+	+	2	63
+	+	2	17
+	+	2	38
+	+	2	23
+
+> /var/ossec/etc/ossec.conf
+	*	1674233447	0
+	"	177	0
+	^	177	0
+	.	174	19
+	+	23	42
+	+	24	3
+	+	63	9
+	+	179	11
+	+	176	11
+	+	176	21
+	+	176	104
+	+	176	1
+	+	176	2
+	+	176	3
+	+	176	1
+	+	176	112
+	+	176	0
+	+	179	1
+	+	179	2
+	+	179	3
+	+	179	1
+	+	179	31
+	+	10	24
+	+	179	1
+	+	179	3
+	+	179	1
+	+	179	24
+	+	179	179
+	+	179	0
+	+	179	53
+	+	179	20
+	+	179	105
+	+	179	0
+	+	179	180
+	+	179	42
+	+	179	0
+	+	10	25
+	+	177	0
+	+	172	1
+	+	175	11
+	+	174	3
+	+	175	1
+	+	173	178
+	+	174	19
+
+> /etc/logrotate.d/rsyslog
+	*	1674206466	0
+	"	23	32
+	^	23	33
+	.	23	32
+	+	23	32
+
+> /etc/rsyslog.d/50-default.conf
+	*	1674075302	0
+	"	10	0
+	.	10	0
+	+	48	30
+	+	49	0
+	+	10	0
+
+> /etc/rsyslog.conf
+	*	1674072665	0
+	"	49	0
+	^	49	0
+
+> /etc/rsyslog.d/wazuh-docker.conf
+	*	1674071669	0
+	"	18	19
+	^	18	20
+	.	18	19
+	+	1	19
+	+	1	0
+	+	1	20
+	+	18	19
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1673986103	0
+	"	2	0
+
+> /var/snap/docker/2343/config/daemon.json
+	*	1673879350	0
+	"	3	33
+	^	3	34
+	.	3	34
+	+	3	34
+	+	3	164
+	+	3	58
+	+	3	72
+	+	3	91
+	+	3	71
+	+	3	91
+	+	3	136
+	+	3	162
+	+	3	34
+
+> /var/snap/docker/2343/config/daem
+	*	1673878698	0
+	"	1	0
+
+> /usr/lib/systemd/system/docker.service
+	*	1673877962	0
+	"	1	0
+
+> /var/log/auth.log
+	*	1673617424	0
+	"	1	0
+
+> /etc/ssh/sshd_config
+	*	1673431211	0
+	"	1	0
+
+> ~/.jupyter/jupyter_notebook_config.py
+	*	1673262772	0
+	"	1	0
+
+> ~/Docker_HTTP/my-httpd.conf
+	*	1671224598	0
+	"	1	0
+
+> ~/apache/docker-compose.yml
+	*	1671223228	0
+	"	17	0
+	^	23	30
+	.	14	0
+	+	12	17
+	+	23	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	14	0
+
+> ~/apache/html/index.html
+	*	1671222288	0
+	"	36	0
+	^	36	0
+	.	35	0
+	+	35	0
+
+> ~/.ssh/authorized_keys
+	*	1670587371	0
+	"	4	411
+	^	4	412
+	.	4	411
+	+	1	418
+	+	2	396
+	+	3	379
+	+	4	411

@@ -1,0 +1,14 @@
+services:
+  httpd:
+    restart: always
+    image: httpd:2.4
+    ports:
+      - "80:80"
+    volumes:
+      - ./html:/usr/local/apache2/htdocs
+      - ./httpd.conf:/usr/local/apache2/conf/httpd.conf
+      - ./httpd-vhosts.conf:/usr/local/apache2/conf/extra/httpd-vhosts.conf
+      - ./htaccess:/usr/local/apache2/.htaccess
+      - ./htpasswd:/usr/local/apache2/.htpasswd
+    network_mode: bridge
+    container_name: httpd-server
